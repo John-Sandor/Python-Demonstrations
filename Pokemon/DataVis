@@ -1,0 +1,38 @@
+
+import pandas as pd
+
+import matplotlib.pylab as plt
+
+import matplotlib as mpl
+import matplotlib.pyplot as plt
+from sklearn import preprocessing
+
+
+import seaborn as sns
+
+filename = "Pokemon.csv"
+
+df = pd.read_csv(filename)
+
+def percentile(dataset,stat_name, value):
+    speed_percentile = dataset[dataset[stat_name] < value][stat_name].count()/dataset[stat_name].count()
+
+    return print(int(speed_percentile*100), "Percent of Pokemon")
+
+ground = df[df['Type 1' or 'Type 2'] == "Ground"]
+
+percentile(ground,'Speed', 90)
+percentile(df,"Speed", 90)
+
+sns.catplot(y="Speed", x="Attack", hue="Type 1", data=df, aspect = 5)
+plt.show()
+
+# label_encoder object knows how to understand word labels.
+label_encoder = preprocessing.LabelEncoder()
+
+
+print(ground)
+# Encode labels in column 'species'.
+df['Type 1'] = label_encoder.fit_transform(df['Type 1'])
+df['Type 2'] = label_encoder.fit_transform(df['Type 2'])
+
