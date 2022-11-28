@@ -5,6 +5,7 @@ What type combinations exist?
   
 What pokemon are playable?
   Total power > 450
+  Or Final Evolution
 
 What is type combination has the most resistence?
   Baysian Analysis that introduces the quantity of playable pokemon of those types to show overall resistence probability to playable pokemon
