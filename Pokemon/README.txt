@@ -33,3 +33,5 @@ What type combination hits the hardest?
  provide a visualization tool for the pokemon team, its offensive and defensive capabilities against all types, and the roles of pokemon witin the team.
  
  
+ Webscrap pokemon from scarlet into the dataset
+ 
