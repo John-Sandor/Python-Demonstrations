@@ -50,4 +50,5 @@ resgressors such as whether a pokemon can use a powerful attack that doesnt matc
 
 add column for effectiveness, (like resistence)
 
-after webscraping new pokemon into the dataframe, I could use a machine learning model to populate the missing resistence and effectiveness columns.
+after webscraping new pokemon into the dataframe, I could use a machine learning model to populate the missing resistence and effectiveness columns. 
+  or use regression for the predictions.
