@@ -45,3 +45,7 @@ What type combination hits the hardest?
   rankings could be percentiles top 15%, top 5%, top 1% for ex. and could also be measured in game to give percentile that summerizes, and normalizes according the level of the pokemon, the ranking of, base stats, nature, iv, and evs all together compared to other pokemon.
   
   dashboard app where you can have sliders for the iv, ev, nature to see pokemons rankings. 
+
+resgressors such as whether a pokemon can use a powerful attack that doesnt match its defensive advantage. ex) high attack & high Sp. Defense
+
+add column for effectiveness, (like resistence)
