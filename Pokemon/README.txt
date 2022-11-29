@@ -35,3 +35,5 @@ What type combination hits the hardest?
  
  Webscrap pokemon from scarlet into the dataset
  
+ coorelation between sp. atk & sp. def. and distribution of correlations for each type.
+ 
