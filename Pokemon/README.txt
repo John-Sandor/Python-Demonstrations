@@ -49,3 +49,5 @@ What type combination hits the hardest?
 resgressors such as whether a pokemon can use a powerful attack that doesnt match its defensive advantage. ex) high attack & high Sp. Defense
 
 add column for effectiveness, (like resistence)
+
+after webscraping new pokemon into the dataframe, I could use a machine learning model to populate the missing resistence and effectiveness columns.
