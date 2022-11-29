@@ -37,3 +37,11 @@ What type combination hits the hardest?
  
  coorelation between sp. atk & sp. def. and distribution of correlations for each type.
  
+ average stats for each type in radar graphs. and ranking among types.
+ 
+ use rankings for a recommender algorithm
+ 
+ ranking for each stat among all pokemon and among pokemon of the same type.
+  rankings could be percentiles top 15%, top 5%, top 1% for ex. and could also be measured in game to give percentile that summerizes, and normalizes according the level of the pokemon, the ranking of, base stats, nature, iv, and evs all together compared to other pokemon.
+  
+  dashboard app where you can have sliders for the iv, ev, nature to see pokemons rankings. 
