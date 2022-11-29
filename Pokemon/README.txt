@@ -24,3 +24,12 @@ What type combination hits the hardest?
  For pokemon that have high atk and high def but low sp.def. Does it have type weaknesses to certain types?
  
  Can pokemon be categorized as all-rounders, defense, offense, or specialized?
+ 
+ Calculate win rate against other competitive pokemon. Using battle outcome predictor
+ 
+ Use calculation above to give each pokemon ratings against other types. Use these ratings attached to a wholistic view at the rest of its stats to make
+ a recommender algoithm that can be used to build a team.
+ 
+ provide a visualization tool for the pokemon team, its offensive and defensive capabilities against all types, and the roles of pokemon witin the team.
+ 
+ 
