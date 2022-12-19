@@ -15,3 +15,4 @@ https://www.storytellingwithdata.com/chart-guide
 for chart ideas
 
 No best pokemon so we're looking at best pokemon at ___ within __ context.
+Breakdown data/pokemon into groups that can be displayed and compared based on group specific metrics
