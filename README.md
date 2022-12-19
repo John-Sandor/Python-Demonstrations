@@ -13,3 +13,5 @@ Type effectiveness as a pie chart.
 
 https://www.storytellingwithdata.com/chart-guide
 for chart ideas
+
+No best pokemon so we're looking at best pokemon at ___ within __ context.
