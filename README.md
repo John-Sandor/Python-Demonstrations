@@ -9,3 +9,7 @@
 Type effectiveness as a pie chart. 
   Bayesian for number of moves of those types
   Bayesian for number of Pokémon of those types
+
+
+https://www.storytellingwithdata.com/chart-guide
+for chart ideas
