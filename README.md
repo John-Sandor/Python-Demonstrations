@@ -23,3 +23,5 @@ calculate average switches per game (and weight?) for stealth rocks. -avg for th
 probability of pokemon going first on the finishing turn. bc some moves increase speed mid battle and only the final blow matters.
 
 Do certain types have a clear best move either sp. or physical?
+
+Clustering algorithm on pokemon datasets
