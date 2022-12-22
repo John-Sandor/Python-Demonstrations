@@ -25,3 +25,5 @@ probability of pokemon going first on the finishing turn. bc some moves increase
 Do certain types have a clear best move either sp. or physical?
 
 Clustering algorithm on pokemon datasets
+
+Webscrap smogon to see which pokemon are referenced most. Use this to verify whether or not my model correctly categorized the pokemon into attacking, status, stall, etc.
